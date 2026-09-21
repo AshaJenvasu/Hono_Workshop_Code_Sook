@@ -1,11 +1,7 @@
-To install dependencies:
-```sh
-bun install
-```
+# Hono Workshop
 
-To run:
-```sh
-bun run dev
-```
+A learning project based on the **Hono Workshop** by CodeSook.
 
-open http://localhost:3000
+I'm following the workshop to practice building a backend application with **Hono, TypeScript, and related technologies**.
+
+This repository is mainly for learning, experimenting, and applying what I learn from the workshop.
